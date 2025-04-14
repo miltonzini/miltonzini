@@ -22,10 +22,12 @@ Soy un desarrollador Fullstack con experiencia en desarrollo y despliegue de pro
 
 
 **Mis Proyectos Destacados:**
+
 (Pronto subiré mis proyectos recientes a esta sección).
 
 
 **¿Cómo contactarme?**
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin)]([linkedin.com/in/miltonzini/])
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[miltonzini@gmail.com])
 mzdev.com.ar
